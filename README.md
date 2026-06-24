@@ -20,4 +20,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
