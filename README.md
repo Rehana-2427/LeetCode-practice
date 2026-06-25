@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0231-power-of-two/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
