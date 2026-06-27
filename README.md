@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0231-power-of-two/) | Easy |
 | [0507-perfect-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -53,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
