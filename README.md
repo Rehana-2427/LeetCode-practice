@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0283-move-zeroes/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
