@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -87,5 +89,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
