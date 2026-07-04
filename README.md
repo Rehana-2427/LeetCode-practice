@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -92,12 +93,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
