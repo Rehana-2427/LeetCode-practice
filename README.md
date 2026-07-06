@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
@@ -127,5 +129,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
