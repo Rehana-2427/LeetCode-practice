@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehana-2427/LeetCode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0344-reverse-string/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rehana-2427/LeetCode-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Trie
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
