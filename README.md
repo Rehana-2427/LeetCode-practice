@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0344-reverse-string/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rehana-2427/LeetCode-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Trie
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0283-move-zeroes/) | Easy |
