@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0204-count-primes/) | Medium |
+| [1291-sequential-digits](https://github.com/Rehana-2427/LeetCode-practice/tree/main/1291-sequential-digits/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
