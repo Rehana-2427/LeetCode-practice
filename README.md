@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0056-merge-intervals/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0205-isomorphic-strings/) | Easy |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0088-merge-sorted-array/) | Easy |
