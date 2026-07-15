@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0049-group-anagrams/) | Medium |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
