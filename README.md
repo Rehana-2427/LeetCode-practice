@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0796-rotate-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
