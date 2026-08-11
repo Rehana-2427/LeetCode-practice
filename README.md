@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0268-missing-number/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehana-2427/LeetCode-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0796-rotate-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rehana-2427/LeetCode-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehana-2427/LeetCode-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rehana-2427/LeetCode-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehana-2427/LeetCode-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rehana-2427/LeetCode-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Rehana-2427/LeetCode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rehana-2427/LeetCode-practice/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rehana-2427/LeetCode-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehana-2427/LeetCode-practice/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
